@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "843390156510",
+    "firebase_url": "https://ipl-project-e7a47.firebaseio.com",
+    "project_id": "ipl-project-e7a47",
+    "storage_bucket": "ipl-project-e7a47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843390156510:android:b42a2062ae7ccb2e",
+        "android_client_info": {
+          "package_name": "com.bridgelabz.iplapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843390156510-8jpjdqnu86gf9hsgfo1t2fqiav4da62n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bridgelabz.iplapp",
+            "certificate_hash": "58BD5FFB493EC35005BF157C2B744D3D1522DE70"
+          }
+        },
+        {
+          "client_id": "843390156510-fumfimphimfv71q74g7pqlvc5c4hb6s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3Su4eDEOgw-o97K5-7kfex3xzB16EJ-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843390156510-fumfimphimfv71q74g7pqlvc5c4hb6s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
